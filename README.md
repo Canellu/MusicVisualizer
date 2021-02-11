@@ -4,7 +4,7 @@
  
 #### Diagram of frequency response of the chip and how to wire it up.
 
-<img src=/asset/frequency_response.png width="200"><img src=/asset/chip.png width="200"><br>
+<img src=/asset/frequency_response.png width="400"><img src=/asset/chip.png width="200"><br>
 
 ### 3D Model of Box to be created using laser-cutter (credits to Alexander Rambech)
 
