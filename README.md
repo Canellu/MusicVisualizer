@@ -1,1 +1,1 @@
-# MusicVisualizer
+# Music Visualizer
