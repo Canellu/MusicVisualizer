@@ -13,7 +13,7 @@
 
 ### Testing code and wiring on breadboard
 
-#### Watch it in action [youtube](https://www.youtube.com/watch?v=euxjTesIGp0&feature=youtu.be)
+#### Watch it in action [youtube](https://youtu.be/3MSKY3xrGlM)
 
 ![Gif](/asset/codeTest.gif)
 
